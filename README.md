@@ -1,2 +1,7 @@
 # IndustrialEng_Task2_operation-file
-This repository is about the second task of Industrial Engineering which is operation file for  the project.
+
+The Industrial scenario file for the project is contains several main headings:
+
+**Operations**, **Testing**, **Tolerance**, **User manual** and **Warranty**.
+
+This information has been collected in detail for the **Fighter Robot** and how it works.
